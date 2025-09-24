@@ -85,9 +85,3 @@ Bu proje **MIT Lisansı** altında lisanslanmıştır. Detaylar için `LICENSE` 
 ## ✉️ İletişim
 
 Burak – www.linkedin.com/in/burakacr – burakabdacr@gmail.com
-
-Proje Linki: [https://github.com/kullanici-adiniz/repo-adiniz](https://github.com/kullanici-adiniz/repo-adiniz)
-
-```
-</immersive>
-```
